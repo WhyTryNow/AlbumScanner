@@ -9,7 +9,6 @@ A desktop application that scans your local music collection for incomplete albu
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -32,24 +31,6 @@ A desktop application that scans your local music collection for incomplete albu
 | 💻 **Tkinter GUI** | Clean desktop interface with status updates |
 | 📄 **Result Export** | Saves detailed scan results to timestamped text files |
 | ⚙️ **Configurable** | Set minimum track threshold to skip singles/EPs |
-
----
-
-## 📸 Screenshots
-
-```
-┌─────────────────────────────────────────────────┐
-│          Album Scanner                          │
-│  Find incomplete albums in your music collection.│
-├─────────────────────────────────────────────────┤
-│ Spotify Client ID: [____________________________]│
-│ Spotify Client Secret: [________________________]│
-│           💾 Save Credentials                    │
-│ Minimum Tracks (Ignore Singles): [3]             │
-│ Select Music Folder: [Browse___]                 │
-│                     🔍 Scan Albums                │
-└─────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -263,14 +244,3 @@ Please create an issue or contact the maintainer directly.
 **Built with Python • Powered by Spotify API • Secure by Default** 🎵
 ```
 
----
-
-## How to Save This File
-
-1. **Open a text editor** (VS Code, Sublime, Notepad++, etc.)
-2. **Paste** the content above into a new file
-3. **Save as**: `README.md`
-4. **Commit to your repository**:
-   ```bash
-   git add README.md
-   git commit -m "Add project documentation"
