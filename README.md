@@ -242,5 +242,4 @@ Please create an issue or contact the maintainer directly.
 ---
 
 **Built with Python • Powered by Spotify API • Secure by Default** 🎵
-```
 
