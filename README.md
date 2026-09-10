@@ -67,8 +67,8 @@ pip install mutagen spotipy cryptography tkinter
 
 3. **Create a virtual environment** (recommended):
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
 ---
