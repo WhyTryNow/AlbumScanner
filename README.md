@@ -36,14 +36,6 @@ A desktop application that scans your local music collection for incomplete albu
 
 ## 🛠️ Prerequisites
 
-### Python Dependencies
-
-Install required packages:
-
-```bash
-pip install mutagen spotipy cryptography tkinter
-```
-
 ### Spotify Developer Account (Optional)
 
 - Required for Spotify API integration
