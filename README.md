@@ -91,7 +91,7 @@ A desktop application that scans your local music collection for incomplete albu
 
 ```bash
 # 1. Run the application
-python Album Scanner.py
+python AlbumScanner.py
 
 # 2. Configure settings in the GUI:
    - Enter Spotify Client ID (optional)
