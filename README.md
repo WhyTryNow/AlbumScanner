@@ -94,17 +94,6 @@ A desktop application that scans your local music collection for incomplete albu
 python AlbumScanner.py
 ```
 
-# 2. Configure settings in the GUI:
-   - Enter Spotify Client ID (optional)
-   - Enter Spotify Client Secret (optional)
-   - Set minimum track threshold
-   - Browse and select your music folder
-
-# 3. Click "Browse" to select a music directory
-
-# 4. Click "Scan Albums" to begin scanning
-
-
 ### GUI Workflow
 
 1. **Enter Spotify Credentials** (recommended for full functionality)
