@@ -191,8 +191,7 @@ AlbumScanner/
 ├── Album Scanner.py          # Main application
 ├── scanner_key.key           # Encryption key (auto-generated)
 ├── credentials.enc           # Encrypted credentials
-├── scan_results_*.txt        # Generated scan reports
-└── requirements.txt          # Python dependencies list
+├── scan_results_*.txt        # Generated 
 ```
 
 ---
