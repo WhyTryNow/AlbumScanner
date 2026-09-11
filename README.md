@@ -106,7 +106,7 @@ python AlbumScanner.py
 
 ```bash
 # Run with specific parameters
-python Album Scanner.py --folder "/path/to/music" --min-tracks 3
+python AlbumScanner.py --folder "/path/to/music" --min-tracks 3
 ```
 
 ---
