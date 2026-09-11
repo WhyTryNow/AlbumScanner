@@ -89,7 +89,7 @@ A desktop application that scans your local music collection for incomplete albu
 
 ### Quick Start Guide
 
-# 1. Run the application
+# Run the application
 ```bash
 python AlbumScanner.py
 ```
@@ -101,13 +101,6 @@ python AlbumScanner.py
 3. **Select Music Folder** using the Browse button
 4. **Adjust Minimum Tracks** threshold if needed
 5. **Click Scan Albums** to begin scanning
-
-### Command Line Alternative (for automation)
-
-```bash
-# Run with specific parameters
-python AlbumScanner.py --folder "/path/to/music" --min-tracks 3
-```
 
 ---
 
