@@ -2,3 +2,4 @@ scanner_key.key
 credentials.enc
 scan_results_*.txt
 .cache
+.venv/
