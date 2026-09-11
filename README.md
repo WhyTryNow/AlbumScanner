@@ -2,7 +2,7 @@
 
 A desktop application that scans your local music collection for incomplete albums and fetches missing track information from Spotify. Organize your music library effortlessly!
 
-![Album Scanner](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Album Scanner](https://img.shields.io/badge/Python-3.14.7%2B-blue.svg)
 
 ---
 
