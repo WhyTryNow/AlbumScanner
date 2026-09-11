@@ -59,18 +59,15 @@ pip install mutagen spotipy cryptography tkinter
    git clone https://WhyTryNow/AlbumScanner
    cd AlbumScanner
    ```
-
-2. **Install Python dependencies**:
-   ```bash
-   pip install mutagen spotipy cryptography
-   ```
-
-3. **Create a virtual environment** (recommended):
+2. **Create a virtual environment** (recommended):
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
-
+3. **Install Python dependencies**:
+   ```bash
+   pip install mutagen spotipy cryptography
+   ```
 ---
 
 ## ⚙️ Configuration
